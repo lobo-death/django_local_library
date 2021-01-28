@@ -1,4 +1,4 @@
-#!/home/python/PycharmProjects/locallibrary/bin/python3
+#!/home/python/PycharmProjects/locallibrary/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
